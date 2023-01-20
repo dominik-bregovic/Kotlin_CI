@@ -1,0 +1,159 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\dbregovic\Fh-Projects\ContinuousIntegration\Android_CI\BasicMultitouch\Application\src\main\AndroidManifest.xml:18:1-41:12
+INJECTED from C:\Users\dbregovic\Fh-Projects\ContinuousIntegration\Android_CI\BasicMultitouch\Application\src\main\AndroidManifest.xml:18:1-41:12
+INJECTED from C:\Users\dbregovic\Fh-Projects\ContinuousIntegration\Android_CI\BasicMultitouch\Application\src\main\AndroidManifest.xml:18:1-41:12
+INJECTED from C:\Users\dbregovic\Fh-Projects\ContinuousIntegration\Android_CI\BasicMultitouch\Application\src\main\AndroidManifest.xml:18:1-41:12
+MERGED from [com.android.support:support-v13:28.0.0] C:\Users\dbregovic\.gradle\caches\transforms-3\13970a79eb27d2bbaeb55edb8329692c\transformed\support-v13-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\dbregovic\.gradle\caches\transforms-3\f390378bd73c6cc8b525fa89945f14a4\transformed\support-v4-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\dbregovic\.gradle\caches\transforms-3\6dd53b31cf58afb0fa71af83f3388a2a\transformed\cardview-v7-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\dbregovic\.gradle\caches\transforms-3\8bd2e02e2e0defa39d5f3180f627af63\transformed\appcompat-v7-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\dbregovic\.gradle\caches\transforms-3\091dfe7a09cc98c22b3f5ed837402020\transformed\support-media-compat-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\dbregovic\.gradle\caches\transforms-3\73d64f017743fda90d2336469525718c\transformed\support-fragment-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\dbregovic\.gradle\caches\transforms-3\b2f4fdf0d51b3acd507e430333e38fe8\transformed\animated-vector-drawable-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\dbregovic\.gradle\caches\transforms-3\dcabff4a87e7f906ed96dca0beccbe53\transformed\support-core-ui-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\dbregovic\.gradle\caches\transforms-3\976279579ff84d944e6beb59e2fad417\transformed\support-core-utils-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\dbregovic\.gradle\caches\transforms-3\a6ae0093441a7599cbc1813efbe71407\transformed\support-vector-drawable-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\dbregovic\.gradle\caches\transforms-3\5cba62bf095f7cdad01959c529fae3b4\transformed\loader-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\dbregovic\.gradle\caches\transforms-3\7e93eb532e6c9617a900b3c84ffda91e\transformed\viewpager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\dbregovic\.gradle\caches\transforms-3\f1cf373c46d9fcb79b005e16c6592da7\transformed\coordinatorlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\dbregovic\.gradle\caches\transforms-3\eb989c95b920f59c18290f1d6c3ffaf8\transformed\drawerlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\dbregovic\.gradle\caches\transforms-3\366dada79591d5320d05f902bdadac03\transformed\slidingpanelayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\dbregovic\.gradle\caches\transforms-3\568b9f37d7a3bff2d6a2376b3d786c78\transformed\customview-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\dbregovic\.gradle\caches\transforms-3\5c3296e546f977ba2e03d8c1fd646af3\transformed\swiperefreshlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\dbregovic\.gradle\caches\transforms-3\634f82712a9ea369af8b8a2c2f62b1e0\transformed\asynclayoutinflater-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\dbregovic\.gradle\caches\transforms-3\e3ff9b02938005917e99766975ce311c\transformed\support-compat-28.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\dbregovic\.gradle\caches\transforms-3\261cc0379b4da92b11975931bc608839\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\dbregovic\.gradle\caches\transforms-3\6ad3271da04c125726bd9d34f66a1f8f\transformed\cursoradapter-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\dbregovic\.gradle\caches\transforms-3\81b22fa2205aef28dd6df0260d8028bf\transformed\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\dbregovic\.gradle\caches\transforms-3\893f6e1993f77ef0895d5247fdac209a\transformed\documentfile-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\dbregovic\.gradle\caches\transforms-3\ba370e25e91912a163f60be071363f69\transformed\localbroadcastmanager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\dbregovic\.gradle\caches\transforms-3\a109996123b0ccedec8faeabbf49e518\transformed\print-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\dbregovic\.gradle\caches\transforms-3\31130b92207bfd84cdce74c0c607c765\transformed\interpolator-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\dbregovic\.gradle\caches\transforms-3\33a74007066cbc5378c58f982c7e4728\transformed\viewmodel-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\dbregovic\.gradle\caches\transforms-3\ad6f6703cc2176f4fd2710b36e3a555e\transformed\livedata-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\dbregovic\.gradle\caches\transforms-3\20042d07198ee6772d942f030b8baea6\transformed\livedata-core-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\dbregovic\.gradle\caches\transforms-3\b189bf74c26ef55ac94497424dbc9cae\transformed\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\dbregovic\Fh-Projects\ContinuousIntegration\Android_CI\BasicMultitouch\Application\src\main\AndroidManifest.xml:18:1-41:12
+INJECTED from C:\Users\dbregovic\Fh-Projects\ContinuousIntegration\Android_CI\BasicMultitouch\Application\src\main\AndroidManifest.xml:18:1-41:12
+INJECTED from C:\Users\dbregovic\Fh-Projects\ContinuousIntegration\Android_CI\BasicMultitouch\Application\src\main\AndroidManifest.xml:18:1-41:12
+	package
+		ADDED from C:\Users\dbregovic\Fh-Projects\ContinuousIntegration\Android_CI\BasicMultitouch\Application\src\main\AndroidManifest.xml:19:5-50
+		INJECTED from C:\Users\dbregovic\Fh-Projects\ContinuousIntegration\Android_CI\BasicMultitouch\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\dbregovic\Fh-Projects\ContinuousIntegration\Android_CI\BasicMultitouch\Application\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\dbregovic\Fh-Projects\ContinuousIntegration\Android_CI\BasicMultitouch\Application\src\main\AndroidManifest.xml:21:5-30
+		INJECTED from C:\Users\dbregovic\Fh-Projects\ContinuousIntegration\Android_CI\BasicMultitouch\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\dbregovic\Fh-Projects\ContinuousIntegration\Android_CI\BasicMultitouch\Application\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\dbregovic\Fh-Projects\ContinuousIntegration\Android_CI\BasicMultitouch\Application\src\main\AndroidManifest.xml:18:11-69
+	android:versionCode
+		ADDED from C:\Users\dbregovic\Fh-Projects\ContinuousIntegration\Android_CI\BasicMultitouch\Application\src\main\AndroidManifest.xml:20:5-28
+		INJECTED from C:\Users\dbregovic\Fh-Projects\ContinuousIntegration\Android_CI\BasicMultitouch\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\dbregovic\Fh-Projects\ContinuousIntegration\Android_CI\BasicMultitouch\Application\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\dbregovic\Fh-Projects\ContinuousIntegration\Android_CI\BasicMultitouch\Application\src\main\AndroidManifest.xml:25:5-39:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\dbregovic\.gradle\caches\transforms-3\e3ff9b02938005917e99766975ce311c\transformed\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\dbregovic\.gradle\caches\transforms-3\e3ff9b02938005917e99766975ce311c\transformed\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\dbregovic\.gradle\caches\transforms-3\261cc0379b4da92b11975931bc608839\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\dbregovic\.gradle\caches\transforms-3\261cc0379b4da92b11975931bc608839\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\dbregovic\.gradle\caches\transforms-3\e3ff9b02938005917e99766975ce311c\transformed\support-compat-28.0.0\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from C:\Users\dbregovic\Fh-Projects\ContinuousIntegration\Android_CI\BasicMultitouch\Application\src\main\AndroidManifest.xml:28:9-41
+	android:icon
+		ADDED from C:\Users\dbregovic\Fh-Projects\ContinuousIntegration\Android_CI\BasicMultitouch\Application\src\main\AndroidManifest.xml:27:9-45
+	android:allowBackup
+		ADDED from C:\Users\dbregovic\Fh-Projects\ContinuousIntegration\Android_CI\BasicMultitouch\Application\src\main\AndroidManifest.xml:26:9-35
+	android:theme
+		ADDED from C:\Users\dbregovic\Fh-Projects\ContinuousIntegration\Android_CI\BasicMultitouch\Application\src\main\AndroidManifest.xml:29:9-40
+activity#com.example.android.basicmultitouch.MainActivity
+ADDED from C:\Users\dbregovic\Fh-Projects\ContinuousIntegration\Android_CI\BasicMultitouch\Application\src\main\AndroidManifest.xml:30:9-38:20
+	android:label
+		ADDED from C:\Users\dbregovic\Fh-Projects\ContinuousIntegration\Android_CI\BasicMultitouch\Application\src\main\AndroidManifest.xml:32:13-45
+	android:name
+		ADDED from C:\Users\dbregovic\Fh-Projects\ContinuousIntegration\Android_CI\BasicMultitouch\Application\src\main\AndroidManifest.xml:31:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\dbregovic\Fh-Projects\ContinuousIntegration\Android_CI\BasicMultitouch\Application\src\main\AndroidManifest.xml:33:13-37:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\dbregovic\Fh-Projects\ContinuousIntegration\Android_CI\BasicMultitouch\Application\src\main\AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from C:\Users\dbregovic\Fh-Projects\ContinuousIntegration\Android_CI\BasicMultitouch\Application\src\main\AndroidManifest.xml:34:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\dbregovic\Fh-Projects\ContinuousIntegration\Android_CI\BasicMultitouch\Application\src\main\AndroidManifest.xml:36:17-77
+	android:name
+		ADDED from C:\Users\dbregovic\Fh-Projects\ContinuousIntegration\Android_CI\BasicMultitouch\Application\src\main\AndroidManifest.xml:36:27-74
+uses-sdk
+INJECTED from C:\Users\dbregovic\Fh-Projects\ContinuousIntegration\Android_CI\BasicMultitouch\Application\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\dbregovic\Fh-Projects\ContinuousIntegration\Android_CI\BasicMultitouch\Application\src\main\AndroidManifest.xml
+INJECTED from C:\Users\dbregovic\Fh-Projects\ContinuousIntegration\Android_CI\BasicMultitouch\Application\src\main\AndroidManifest.xml
+MERGED from [com.android.support:support-v13:28.0.0] C:\Users\dbregovic\.gradle\caches\transforms-3\13970a79eb27d2bbaeb55edb8329692c\transformed\support-v13-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:28.0.0] C:\Users\dbregovic\.gradle\caches\transforms-3\13970a79eb27d2bbaeb55edb8329692c\transformed\support-v13-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\dbregovic\.gradle\caches\transforms-3\f390378bd73c6cc8b525fa89945f14a4\transformed\support-v4-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\dbregovic\.gradle\caches\transforms-3\f390378bd73c6cc8b525fa89945f14a4\transformed\support-v4-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\dbregovic\.gradle\caches\transforms-3\6dd53b31cf58afb0fa71af83f3388a2a\transformed\cardview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\dbregovic\.gradle\caches\transforms-3\6dd53b31cf58afb0fa71af83f3388a2a\transformed\cardview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\dbregovic\.gradle\caches\transforms-3\8bd2e02e2e0defa39d5f3180f627af63\transformed\appcompat-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\dbregovic\.gradle\caches\transforms-3\8bd2e02e2e0defa39d5f3180f627af63\transformed\appcompat-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\dbregovic\.gradle\caches\transforms-3\091dfe7a09cc98c22b3f5ed837402020\transformed\support-media-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\dbregovic\.gradle\caches\transforms-3\091dfe7a09cc98c22b3f5ed837402020\transformed\support-media-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\dbregovic\.gradle\caches\transforms-3\73d64f017743fda90d2336469525718c\transformed\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\dbregovic\.gradle\caches\transforms-3\73d64f017743fda90d2336469525718c\transformed\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\dbregovic\.gradle\caches\transforms-3\b2f4fdf0d51b3acd507e430333e38fe8\transformed\animated-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\dbregovic\.gradle\caches\transforms-3\b2f4fdf0d51b3acd507e430333e38fe8\transformed\animated-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\dbregovic\.gradle\caches\transforms-3\dcabff4a87e7f906ed96dca0beccbe53\transformed\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\dbregovic\.gradle\caches\transforms-3\dcabff4a87e7f906ed96dca0beccbe53\transformed\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\dbregovic\.gradle\caches\transforms-3\976279579ff84d944e6beb59e2fad417\transformed\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\dbregovic\.gradle\caches\transforms-3\976279579ff84d944e6beb59e2fad417\transformed\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\dbregovic\.gradle\caches\transforms-3\a6ae0093441a7599cbc1813efbe71407\transformed\support-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\dbregovic\.gradle\caches\transforms-3\a6ae0093441a7599cbc1813efbe71407\transformed\support-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\dbregovic\.gradle\caches\transforms-3\5cba62bf095f7cdad01959c529fae3b4\transformed\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\dbregovic\.gradle\caches\transforms-3\5cba62bf095f7cdad01959c529fae3b4\transformed\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\dbregovic\.gradle\caches\transforms-3\7e93eb532e6c9617a900b3c84ffda91e\transformed\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\dbregovic\.gradle\caches\transforms-3\7e93eb532e6c9617a900b3c84ffda91e\transformed\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\dbregovic\.gradle\caches\transforms-3\f1cf373c46d9fcb79b005e16c6592da7\transformed\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\dbregovic\.gradle\caches\transforms-3\f1cf373c46d9fcb79b005e16c6592da7\transformed\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\dbregovic\.gradle\caches\transforms-3\eb989c95b920f59c18290f1d6c3ffaf8\transformed\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\dbregovic\.gradle\caches\transforms-3\eb989c95b920f59c18290f1d6c3ffaf8\transformed\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\dbregovic\.gradle\caches\transforms-3\366dada79591d5320d05f902bdadac03\transformed\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\dbregovic\.gradle\caches\transforms-3\366dada79591d5320d05f902bdadac03\transformed\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\dbregovic\.gradle\caches\transforms-3\568b9f37d7a3bff2d6a2376b3d786c78\transformed\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\dbregovic\.gradle\caches\transforms-3\568b9f37d7a3bff2d6a2376b3d786c78\transformed\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\dbregovic\.gradle\caches\transforms-3\5c3296e546f977ba2e03d8c1fd646af3\transformed\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\dbregovic\.gradle\caches\transforms-3\5c3296e546f977ba2e03d8c1fd646af3\transformed\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\dbregovic\.gradle\caches\transforms-3\634f82712a9ea369af8b8a2c2f62b1e0\transformed\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\dbregovic\.gradle\caches\transforms-3\634f82712a9ea369af8b8a2c2f62b1e0\transformed\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\dbregovic\.gradle\caches\transforms-3\e3ff9b02938005917e99766975ce311c\transformed\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\dbregovic\.gradle\caches\transforms-3\e3ff9b02938005917e99766975ce311c\transformed\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\dbregovic\.gradle\caches\transforms-3\261cc0379b4da92b11975931bc608839\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\dbregovic\.gradle\caches\transforms-3\261cc0379b4da92b11975931bc608839\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\dbregovic\.gradle\caches\transforms-3\6ad3271da04c125726bd9d34f66a1f8f\transformed\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\dbregovic\.gradle\caches\transforms-3\6ad3271da04c125726bd9d34f66a1f8f\transformed\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\dbregovic\.gradle\caches\transforms-3\81b22fa2205aef28dd6df0260d8028bf\transformed\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\dbregovic\.gradle\caches\transforms-3\81b22fa2205aef28dd6df0260d8028bf\transformed\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\dbregovic\.gradle\caches\transforms-3\893f6e1993f77ef0895d5247fdac209a\transformed\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\dbregovic\.gradle\caches\transforms-3\893f6e1993f77ef0895d5247fdac209a\transformed\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\dbregovic\.gradle\caches\transforms-3\ba370e25e91912a163f60be071363f69\transformed\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\dbregovic\.gradle\caches\transforms-3\ba370e25e91912a163f60be071363f69\transformed\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\dbregovic\.gradle\caches\transforms-3\a109996123b0ccedec8faeabbf49e518\transformed\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\dbregovic\.gradle\caches\transforms-3\a109996123b0ccedec8faeabbf49e518\transformed\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\dbregovic\.gradle\caches\transforms-3\31130b92207bfd84cdce74c0c607c765\transformed\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\dbregovic\.gradle\caches\transforms-3\31130b92207bfd84cdce74c0c607c765\transformed\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\dbregovic\.gradle\caches\transforms-3\33a74007066cbc5378c58f982c7e4728\transformed\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\dbregovic\.gradle\caches\transforms-3\33a74007066cbc5378c58f982c7e4728\transformed\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\dbregovic\.gradle\caches\transforms-3\ad6f6703cc2176f4fd2710b36e3a555e\transformed\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\dbregovic\.gradle\caches\transforms-3\ad6f6703cc2176f4fd2710b36e3a555e\transformed\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\dbregovic\.gradle\caches\transforms-3\20042d07198ee6772d942f030b8baea6\transformed\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\dbregovic\.gradle\caches\transforms-3\20042d07198ee6772d942f030b8baea6\transformed\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\dbregovic\.gradle\caches\transforms-3\b189bf74c26ef55ac94497424dbc9cae\transformed\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\dbregovic\.gradle\caches\transforms-3\b189bf74c26ef55ac94497424dbc9cae\transformed\runtime-1.1.1\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\dbregovic\Fh-Projects\ContinuousIntegration\Android_CI\BasicMultitouch\Application\src\main\AndroidManifest.xml
+INJECTED from C:\Users\dbregovic\Fh-Projects\ContinuousIntegration\Android_CI\BasicMultitouch\Application\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\dbregovic\Fh-Projects\ContinuousIntegration\Android_CI\BasicMultitouch\Application\src\main\AndroidManifest.xml
+		ADDED from C:\Users\dbregovic\Fh-Projects\ContinuousIntegration\Android_CI\BasicMultitouch\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\dbregovic\Fh-Projects\ContinuousIntegration\Android_CI\BasicMultitouch\Application\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\dbregovic\Fh-Projects\ContinuousIntegration\Android_CI\BasicMultitouch\Application\src\main\AndroidManifest.xml
+		ADDED from C:\Users\dbregovic\Fh-Projects\ContinuousIntegration\Android_CI\BasicMultitouch\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\dbregovic\Fh-Projects\ContinuousIntegration\Android_CI\BasicMultitouch\Application\src\main\AndroidManifest.xml

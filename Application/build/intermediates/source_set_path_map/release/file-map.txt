@@ -1,0 +1,15 @@
+com.example.android.basicmultitouch.Application-support-media-compat-28.0.0-0 C:\Users\dbregovic\.gradle\caches\transforms-3\091dfe7a09cc98c22b3f5ed837402020\transformed\support-media-compat-28.0.0\res
+com.example.android.basicmultitouch.Application-cardview-v7-28.0.0-1 C:\Users\dbregovic\.gradle\caches\transforms-3\6dd53b31cf58afb0fa71af83f3388a2a\transformed\cardview-v7-28.0.0\res
+com.example.android.basicmultitouch.Application-appcompat-v7-28.0.0-2 C:\Users\dbregovic\.gradle\caches\transforms-3\8bd2e02e2e0defa39d5f3180f627af63\transformed\appcompat-v7-28.0.0\res
+com.example.android.basicmultitouch.Application-support-compat-28.0.0-3 C:\Users\dbregovic\.gradle\caches\transforms-3\e3ff9b02938005917e99766975ce311c\transformed\support-compat-28.0.0\res
+com.example.android.basicmultitouch.Application-coordinatorlayout-28.0.0-4 C:\Users\dbregovic\.gradle\caches\transforms-3\f1cf373c46d9fcb79b005e16c6592da7\transformed\coordinatorlayout-28.0.0\res
+com.example.android.basicmultitouch.Application-pngs-5 C:\Users\dbregovic\Fh-Projects\ContinuousIntegration\Android_CI\BasicMultitouch\Application\build\generated\res\pngs\release
+com.example.android.basicmultitouch.Application-resValues-6 C:\Users\dbregovic\Fh-Projects\ContinuousIntegration\Android_CI\BasicMultitouch\Application\build\generated\res\resValues\release
+com.example.android.basicmultitouch.Application-rs-7 C:\Users\dbregovic\Fh-Projects\ContinuousIntegration\Android_CI\BasicMultitouch\Application\build\generated\res\rs\release
+com.example.android.basicmultitouch.Application-mergeReleaseResources-8 C:\Users\dbregovic\Fh-Projects\ContinuousIntegration\Android_CI\BasicMultitouch\Application\build\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.example.android.basicmultitouch.Application-mergeReleaseResources-9 C:\Users\dbregovic\Fh-Projects\ContinuousIntegration\Android_CI\BasicMultitouch\Application\build\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.example.android.basicmultitouch.Application-merged_res-10 C:\Users\dbregovic\Fh-Projects\ContinuousIntegration\Android_CI\BasicMultitouch\Application\build\intermediates\merged_res\release
+com.example.android.basicmultitouch.Application-common-11 C:\Users\dbregovic\Fh-Projects\ContinuousIntegration\Android_CI\BasicMultitouch\Application\src\common\res
+com.example.android.basicmultitouch.Application-main-12 C:\Users\dbregovic\Fh-Projects\ContinuousIntegration\Android_CI\BasicMultitouch\Application\src\main\res
+com.example.android.basicmultitouch.Application-release-13 C:\Users\dbregovic\Fh-Projects\ContinuousIntegration\Android_CI\BasicMultitouch\Application\src\release\res
+com.example.android.basicmultitouch.Application-template-14 C:\Users\dbregovic\Fh-Projects\ContinuousIntegration\Android_CI\BasicMultitouch\Application\src\template\res

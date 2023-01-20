@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<incidents format="6" by="lint 7.3.1" type="incidents">
+
+    <incident
+        id="RedundantLabel"
+        severity="warning"
+        message="Redundant label can be removed">
+        <fix-attribute
+            description="Delete label"
+            namespace="http://schemas.android.com/apk/res/android"
+            attribute="label"/>
+        <location
+            file="${:Application*debug*sourceProvider*0*manifest*0}"
+            line="32"
+            column="13"
+            startOffset="1178"
+            endLine="32"
+            endColumn="45"
+            endOffset="1210"/>
+    </incident>
+
+    <incident
+        id="ObsoleteSdkInt"
+        severity="warning"
+        message="This folder configuration (`v11`) is unnecessary; `minSdkVersion` is 14. Merge all the resources in this folder into `values`.">
+        <fix-data file="${:Application*debug*sourceProvider*0*resDir*0}/values-v11" folderName="values" requiresApi="14"/>
+        <location
+            file="${:Application*debug*sourceProvider*0*resDir*0}/values-v11"/>
+    </incident>
+
+    <incident
+        id="ObsoleteSdkInt"
+        severity="warning"
+        message="This folder configuration (`v14`) is unnecessary; `minSdkVersion` is 14. Merge all the resources in this folder into `values`.">
+        <fix-data file="${:Application*debug*sourceProvider*0*resDir*0}/values-v14" folderName="values" requiresApi="14"/>
+        <location
+            file="${:Application*debug*sourceProvider*0*resDir*0}/values-v14"/>
+    </incident>
+
+    <incident
+        id="ClickableViewAccessibility"
+        severity="warning"
+        message="Custom view `TouchDisplayView` overrides `onTouchEvent` but not `performClick`">
+        <location
+            file="${:Application*debug*sourceProvider*0*javaDir*0}/com/example/android/basicmultitouch/TouchDisplayView.java"
+            line="133"
+            column="20"
+            startOffset="4024"
+            endLine="133"
+            endColumn="32"
+            endOffset="4036"/>
+    </incident>
+
+    <incident
+        id="AppCompatCustomView"
+        severity="error"
+        message="This custom view should extend `android.support.v7.widget.AppCompatTextView` instead">
+        <fix-replace
+            description="Extend AppCompat widget instead"
+            family="Extend AppCompat widget instead"
+            robot="true"
+            independent="true"
+            replacement="android.support.v7.widget.AppCompatTextView"/>
+        <location
+            file="${:Application*debug*sourceProvider*0*javaDir*0}/com/example/android/common/logger/LogView.java"
+            line="25"
+            column="30"
+            startOffset="906"
+            endLine="25"
+            endColumn="38"
+            endOffset="914"/>
+    </incident>
+
+    <incident
+        id="AndroidGradlePluginVersion"
+        severity="warning"
+        message="A newer version of com.android.tools.build:gradle than 7.3.1 is available: 7.4.0">
+        <fix-replace
+            description="Change to 7.4.0"
+            family="Update versions"
+            oldString="7.3.1"
+            replacement="7.4.0"/>
+        <location
+            file="${:Application*projectDir}/build.gradle"
+            line="9"
+            column="9"
+            startOffset="116"
+            endLine="9"
+            endColumn="57"
+            endOffset="164"/>
+    </incident>
+
+    <incident
+        id="GradleCompatible"
+        severity="fatal"
+        message="Version 28 (intended for Android Pie and below) is the last version of the legacy support library, so we recommend that you migrate to AndroidX libraries when using Android Q and moving forward. The IDE can help with this: Refactor > Migrate to AndroidX...">
+        <location
+            file="${:Application*projectDir}/build.gradle"
+            line="23"
+            column="24"
+            startOffset="319"
+            endLine="23"
+            endColumn="63"
+            endOffset="358"/>
+    </incident>
+
+    <incident
+        id="GradleCompatible"
+        severity="fatal"
+        message="Version 28 (intended for Android Pie and below) is the last version of the legacy support library, so we recommend that you migrate to AndroidX libraries when using Android Q and moving forward. The IDE can help with this: Refactor > Migrate to AndroidX...">
+        <location
+            file="${:Application*projectDir}/build.gradle"
+            line="24"
+            column="24"
+            startOffset="383"
+            endLine="24"
+            endColumn="64"
+            endOffset="423"/>
+    </incident>
+
+    <incident
+        id="GradleCompatible"
+        severity="fatal"
+        message="Version 28 (intended for Android Pie and below) is the last version of the legacy support library, so we recommend that you migrate to AndroidX libraries when using Android Q and moving forward. The IDE can help with this: Refactor > Migrate to AndroidX...">
+        <location
+            file="${:Application*projectDir}/build.gradle"
+            line="25"
+            column="24"
+            startOffset="448"
+            endLine="25"
+            endColumn="64"
+            endOffset="488"/>
+    </incident>
+
+    <incident
+        id="GradleCompatible"
+        severity="fatal"
+        message="Version 28 (intended for Android Pie and below) is the last version of the legacy support library, so we recommend that you migrate to AndroidX libraries when using Android Q and moving forward. The IDE can help with this: Refactor > Migrate to AndroidX...">
+        <location
+            file="${:Application*projectDir}/build.gradle"
+            line="26"
+            column="24"
+            startOffset="513"
+            endLine="26"
+            endColumn="65"
+            endOffset="554"/>
+    </incident>
+
+    <incident
+        id="MergeRootFrame"
+        severity="warning"
+        message="This `&lt;FrameLayout>` can be replaced with a `&lt;merge>` tag">
+        <location
+            file="${:Application*debug*sourceProvider*0*resDir*0}/layout/layout_mainactivity.xml"
+            line="2"
+            column="1"
+            startOffset="40"
+            endLine="17"
+            endColumn="15"
+            endOffset="599"/>
+    </incident>
+
+    <incident
+        id="IconDensities"
+        severity="warning"
+        message="Missing the following drawables in `drawable-xhdpi`: tile.9.png (found in drawable-hdpi)">
+        <location
+            file="${:Application*debug*sourceProvider*0*resDir*0}/drawable-xhdpi"/>
+    </incident>
+
+    <incident
+        id="IconDensities"
+        severity="warning"
+        message="Missing the following drawables in `drawable-xxhdpi`: tile.9.png (found in drawable-hdpi)">
+        <location
+            file="${:Application*debug*sourceProvider*0*resDir*0}/drawable-xxhdpi"/>
+    </incident>
+
+    <incident
+        id="IconDensities"
+        severity="warning"
+        message="Missing the following drawables in `drawable-mdpi`: tile.9.png (found in drawable-hdpi)">
+        <location
+            file="${:Application*debug*sourceProvider*0*resDir*0}/drawable-mdpi"/>
+    </incident>
+
+</incidents>

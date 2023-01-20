@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.android.basicmultitouch.Application-mergeReleaseResources-8:/values-v14/values-v14.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\dbregovic\\Fh-Projects\\ContinuousIntegration\\Android_CI\\BasicMultitouch\\Application\\src\\main\\res\\values-v14\\styles.xml",
+                    "from": {
+                        "startLines": "23",
+                        "startColumns": "4",
+                        "startOffsets": "849",
+                        "endLines": "25",
+                        "endColumns": "12",
+                        "endOffsets": "995"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "150"
+                    }
+                }
+            ]
+        }
+    ]
+}

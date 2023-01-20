@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "com.example.android.basicmultitouch.Application-merged_res-10:/drawable-hdpi_tile.9.png.flat",
+        "source": "com.example.android.basicmultitouch.Application-main-12:/drawable-hdpi/tile.9.png"
+    },
+    {
+        "merged": "com.example.android.basicmultitouch.Application-merged_res-10:/drawable-hdpi_ic_launcher.png.flat",
+        "source": "com.example.android.basicmultitouch.Application-main-12:/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.android.basicmultitouch.Application-merged_res-10:/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "com.example.android.basicmultitouch.Application-main-12:/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.android.basicmultitouch.Application-merged_res-10:/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.android.basicmultitouch.Application-main-12:/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.android.basicmultitouch.Application-merged_res-10:/layout_layout_mainactivity.xml.flat",
+        "source": "com.example.android.basicmultitouch.Application-main-12:/layout/layout_mainactivity.xml"
+    },
+    {
+        "merged": "com.example.android.basicmultitouch.Application-merged_res-10:/drawable-mdpi_ic_launcher.png.flat",
+        "source": "com.example.android.basicmultitouch.Application-main-12:/drawable-mdpi/ic_launcher.png"
+    }
+]
