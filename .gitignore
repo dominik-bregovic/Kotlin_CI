@@ -1,5 +1,7 @@
 BasicMultitouch/Application/build/
 BasicMultitouch/Application/debug/
 .idea/
-Application/
+Application/build/intermediates
+Application/build/reports
+
 .gradle
