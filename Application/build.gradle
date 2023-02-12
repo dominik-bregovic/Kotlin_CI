@@ -52,7 +52,7 @@ android {
 
     signingConfigs {
         debug {
-            storeFile file('C:/Users/dbregovic/AndroidStudioProjects/Keystore/android_studio.jks')
+            storeFile file('android_studio.jks')
             storePassword findProperty('storePassword')
             keyPassword findProperty('keyPassword')
             keyAlias 'key0'
