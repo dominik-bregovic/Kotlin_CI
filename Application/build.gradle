@@ -52,7 +52,7 @@ android {
 
     signingConfigs {
         debug {
-            storeFile file('../android_studio.jks')
+            storeFile file('../android_studio.jks') // the path usually was: C:\Users\dbregovic\AndroidStudioProjects\Keystore\android_studio.jks changing this for github will result in failing local gradlew builds
             storePassword findProperty('storePassword')
             keyPassword findProperty('keyPassword')
             keyAlias 'key0'
